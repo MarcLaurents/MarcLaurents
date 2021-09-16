@@ -22,7 +22,7 @@
 
 <p>
   I'm a private english teacher. I make maintenance in hard/software. Worked in real state for 1 year and 8 months.  <br />	
-  I'm studying in college UNA - Cristiano Machado Cursing Computering Science. <br />
+  I'm studying in college UNA - Cristiano Machado Cursing Computer Science. <br />
   Owner of Leaf Tech ©
   <img src="https://media.discordapp.net/attachments/809859823872376903/887926955951935508/Leaf.png" />
 </p>
