@@ -1,114 +1,38 @@
-<h1 align="Marcelo Laurentino's Project">Nome do Projeto</h1>
+## 👋 Hello!! Wellcome to my profile!!
+<br />
+<div> 
+<!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+  <a href="https://bit.ly/MarceloLaurentinoLinkedIn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:marcelolaurentinomelo@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/marcelol4urentino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
+  
+  
+</div>
 
-## Descrição do Projeto
-<p align="center">Escrever uma breve descrição</p>
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
-</h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
+<br />
 
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
+<p>
+  I'm a private english teacher. I make maintenance in hard/software. Worked in real state for 1 year and 8 months.  <br />	
+  I'm studying in college UNA - Cristiano Machado Cursing Computering Science. <br />
 </p>
+<br />
+<div>
+  <a href="https://github.com/marclaurents">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marclaurents&show_icons=true&theme=react&include_all_commits=true&count_private=true&custom_title=Estatísticas do meu perfil"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marclaurents&layout=compact&langs_count=7&theme=react&custom_title=Linguagens mais utilizadas"/>
+</div><br />
 
-<h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
-</h4>
-
-### Features
-
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
-
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
-### 🎲 Rodando o Back End (servidor)
-
-```bash
-# Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
-
-# Vá para a pasta server
-$ cd server
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
-
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
-```
-
-# Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
-
-# Vá para a pasta server
-$ cd server
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
-
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
-
-
-### 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-### Autor
----
-
-Feito por Marcelo laurentino 👋🏽 Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Marcelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://bit.ly/MarceloLaurentinoLinkedIn)](https://https://bit.ly/MarceloLaurentinoLinkedIn) 
-[![Gmail Badge](https://img.shields.io/badge/-marcelolaurentinomelo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelolaurentinomelo@gmail.com)](mailto:marcelolaurentinomelo@gmail.com)
-
-MIT License
-
-Copyright (c) <2020> <Seu Nome>
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+<div style="display: flex; align-items: center">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" style="margin-top: 20px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" style="margin-top: 20px"/>	
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" style="margin-top: 20px"/>
   
   
+  
+</div>
+<br />
+ 
+##
+
