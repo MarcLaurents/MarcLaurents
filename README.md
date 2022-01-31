@@ -1,8 +1,5 @@
 ## 👋 Hello!! Wellcome to my profile!!
 <br />
-
-<img src="https://media.discordapp.net/attachments/809859823872376903/887926569371303956/MarcLOGO1.png" />
-
 <div> 
 <img src="https://media.discordapp.net/attachments/809859823872376903/887936642260819988/Passaporte-react-js.png" />
 </div>
