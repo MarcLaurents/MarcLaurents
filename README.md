@@ -29,9 +29,10 @@
 </div><br />
 
 <div style="display: flex; align-items: center">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="30" width="40" style="margin-top: 20px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="30" width="40" style="margin-top: 20px"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" style="margin-top: 20px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" style="margin-top: 20px"/>	
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" style="margin-top: 20px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" style="margin-top: 20px"/>
   
   
   
