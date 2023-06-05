@@ -14,8 +14,15 @@
 <br />
 
 <p>
-  I'm a private english teacher. I make maintenance in hard/software. Worked in real state for 1 year and 8 months.  <br />	
-  I'm studying in college UNA - Cristiano Machado Cursing Computer Science. <br />
+  Sou um desenvolvedor com experiência em banco de dados relacionais e não-relacionais, Node.js, JavaScript e TDD. Já trabalhei em projetos desafiadores que envolviam a criação de sistemas escaláveis e de alta performance.
+
+Tenho conhecimentos sólidos em bancos de dados relacionais, como MySQL, PostgreSQL e Oracle, além de experiência em bancos de dados não-relacionais, como MongoDB . Sou capaz de projetar e implementar soluções de banco de dados eficientes e escaláveis.
+
+Além disso, sou experiente em Node.js e JavaScript, tendo trabalhado em projetos que envolviam o desenvolvimento de APIs RESTful e aplicações web. Tenho habilidades em TDD (Test Driven Development) e sempre busco escrever código limpo e bem estruturado.
+
+Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. Se você está procurando um desenvolvedor experiente em banco de dados, Node.js, JavaScript e TDD, entre em contato comigo!
+
+GitHub: https://github.com/MarcLaurents
 </p>
 <br />
 <div>
@@ -24,15 +31,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marclaurents&layout=compact&langs_count=7&theme=react&custom_title=Linguagens mais utilizadas"/>
 </div><br />
 
-<div style="display: flex; align-items: center">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="30" width="40" style="margin-top: 20px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="30" width="40" style="margin-top: 20px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" style="margin-top: 20px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" style="margin-top: 20px"/>
-  
-  
-  
-</div>
 <br />
  
 ##
