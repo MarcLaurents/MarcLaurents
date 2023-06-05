@@ -23,6 +23,7 @@ Além disso, sou experiente em Node.js e JavaScript, tendo trabalhado em projeto
 Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. Se você está procurando um desenvolvedor experiente em banco de dados, Node.js, JavaScript e TDD, entre em contato comigo!
 
 GitHub: https://github.com/MarcLaurents
+LinkedIn: https://www.linkedin.com/in/marcelo-laurentino-costa-melo-1a0318219/
 </p>
 <br />
 <div>
