@@ -18,13 +18,5 @@ Tenho conhecimentos sólidos em bancos de dados relacionais, como MySQL, Postgre
 Além disso, sou experiente em Node.js e JavaScript, tendo trabalhado em projetos que envolviam o desenvolvimento de APIs RESTful e aplicações web. Tenho habilidades em TDD (Test Driven Development) e sempre busco escrever código limpo e bem estruturado.
 
 Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. Se você está procurando um desenvolvedor experiente em banco de dados, Node.js, JavaScript e TDD, entre em contato comigo!
-
-GitHub: https://github.com/MarcLaurents
-LinkedIn: https://www.linkedin.com/in/marcelo-laurentino-costa-melo-1a0318219/
 </p>
 <br />
-<div>
-  <a href="https://github.com/marclaurents">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marclaurents&show_icons=true&theme=react&include_all_commits=true&count_private=true&custom_title=Estatísticas do meu perfil"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marclaurents&layout=compact&langs_count=7&theme=react&custom_title=Linguagens mais utilizadas"/>
-</div><br />
