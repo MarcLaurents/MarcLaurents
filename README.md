@@ -31,8 +31,3 @@ LinkedIn: https://www.linkedin.com/in/marcelo-laurentino-costa-melo-1a0318219/
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marclaurents&show_icons=true&theme=react&include_all_commits=true&count_private=true&custom_title=Estatísticas do meu perfil"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marclaurents&layout=compact&langs_count=7&theme=react&custom_title=Linguagens mais utilizadas"/>
 </div><br />
-
-<br />
- 
-##
-
