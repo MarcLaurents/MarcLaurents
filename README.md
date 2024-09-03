@@ -11,12 +11,12 @@
 <br />
 
 <p>
-  Sou um desenvolvedor com experiência em banco de dados relacionais e não-relacionais, Node.js, JavaScript e TDD. Já trabalhei em projetos desafiadores que envolviam a criação de sistemas escaláveis e de alta performance.
+Sou um desenvolvedor com experiência em bancos de dados relacionais (MySQL, PostgreSQL, Oracle) e não relacionais (MongoDB). Tenho habilidade em projetar e implementar soluções escaláveis e eficientes para sistemas de alta performance.
 
-Tenho conhecimentos sólidos em bancos de dados relacionais, como MySQL, PostgreSQL e Oracle, além de experiência em bancos de dados não-relacionais, como MongoDB . Sou capaz de projetar e implementar soluções de banco de dados eficientes e escaláveis.
+Possuo expertise em Node.js e JavaScript, com foco em desenvolvimento de APIs RESTful e aplicações web. Utilizo TDD (Test Driven Development) para garantir código limpo, bem estruturado e com qualidade, além de sempre buscar práticas que aumentem a escalabilidade e performance dos sistemas.
 
-Além disso, sou experiente em Node.js e JavaScript, tendo trabalhado em projetos que envolviam o desenvolvimento de APIs RESTful e aplicações web. Tenho habilidades em TDD (Test Driven Development) e sempre busco escrever código limpo e bem estruturado.
+Tenho inglês avançado e experiência como professor particular, o que aprimora minhas habilidades de comunicação e didática em ambientes colaborativos.
 
-Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. Se você está procurando um desenvolvedor experiente em banco de dados, Node.js, JavaScript e TDD, entre em contato comigo!
+Estou em constante busca por novos desafios e oportunidades que me permitam evoluir profissionalmente. Se você procura um desenvolvedor experiente em banco de dados, Node.js, JavaScript e TDD, entre em contato comigo!
 </p>
 <br />
